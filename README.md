@@ -45,11 +45,11 @@ Do this **every day**, and also as the warm-up before each strength session.
 
 | Day | Session |
 |-----|---------|
-| Day 1 (e.g. Mon) | **Session A — Posterior Chain & Hamstring Strength** |
+| Day 1 (e.g. Mon) | [**Session A — Posterior Chain & Hamstring Strength**](#session-a--posterior-chain--hamstring-strength-day-1) |
 | Day 2 (e.g. Tue) | Daily 15-min routine only |
-| Day 3 (e.g. Wed) | **Session B — Hip & Glute Focus** |
+| Day 3 (e.g. Wed) | [**Session B — Hip & Glute Focus**](#session-b--hip--glute-focus-day-3) |
 | Day 4 (e.g. Thu) | Daily 15-min routine only |
-| Day 5 (e.g. Fri) | **Session C — Ankle, Balance & Integrated Strength** |
+| Day 5 (e.g. Fri) | [**Session C — Ankle, Balance & Integrated Strength**](#session-c--ankle-balance--integrated-strength-day-5) |
 | Day 6/7 | Daily 15-min routine + light walking |
 
 Each session = **~60 min**: 15 min warm-up + ~35 min strength work + ~10 min cool-down/stretch.
