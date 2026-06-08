@@ -18,6 +18,22 @@
 
 ---
 
+## Weekly Schedule Overview
+
+| Day | Session |
+|-----|---------|
+| Day 1 (e.g. Mon) | [**Session A — Posterior Chain & Hamstring Strength**](#session-a--posterior-chain--hamstring-strength-day-1) |
+| Day 2 (e.g. Tue) | [**Daily 15-min routine only**](#daily-15-minute-warm-up--stretching-routine) |
+| Day 3 (e.g. Wed) | [**Session B — Hip & Glute Focus**](#session-b--hip--glute-focus-day-3) |
+| Day 4 (e.g. Thu) | [**Daily 15-min routine only**](#daily-15-minute-warm-up--stretching-routine) |
+| Day 5 (e.g. Fri) | [**Session C — Ankle, Balance & Integrated Strength**](#session-c--ankle-balance--integrated-strength-day-5) |
+| Day 6/7 | [**Daily 15-min routine only**](#daily-15-minute-warm-up--stretching-routine) + light walking |
+
+Each session = **~60 min**: 15 min warm-up + ~35 min strength work + ~10 min cool-down/stretch.
+
+---
+
+
 ## Daily 15-Minute Warm-Up & Stretching Routine
 
 Do this **every day**, and also as the warm-up before each strength session.
@@ -38,21 +54,6 @@ Do this **every day**, and also as the warm-up before each strength session.
 | 12 | Deep breathing + posture reset | |1 min | Stand tall, 5 slow nasal breaths. |
 
 > **Tip:** If you do nothing else on a busy day, do exercises 7, 8, and 9. The nerve glide + gentle hamstring stretch is the key piece for posterior knee pain.
-
----
-
-## Weekly Schedule Overview
-
-| Day | Session |
-|-----|---------|
-| Day 1 (e.g. Mon) | [**Session A — Posterior Chain & Hamstring Strength**](#session-a--posterior-chain--hamstring-strength-day-1) |
-| Day 2 (e.g. Tue) | Daily 15-min routine only |
-| Day 3 (e.g. Wed) | [**Session B — Hip & Glute Focus**](#session-b--hip--glute-focus-day-3) |
-| Day 4 (e.g. Thu) | Daily 15-min routine only |
-| Day 5 (e.g. Fri) | [**Session C — Ankle, Balance & Integrated Strength**](#session-c--ankle-balance--integrated-strength-day-5) |
-| Day 6/7 | Daily 15-min routine + light walking |
-
-Each session = **~60 min**: 15 min warm-up + ~35 min strength work + ~10 min cool-down/stretch.
 
 ---
 
